@@ -1,2 +1,0 @@
-# rC
-Coding class
